@@ -1,0 +1,8 @@
+# 编译生成的程序
+main
+*.o
+*.out
+*.dSYM/
+
+# VSCode 缓存
+.vscode/.cache
